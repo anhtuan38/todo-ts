@@ -1,0 +1,17 @@
+:root {
+  --primary: gray;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 5rem;
+  font-weight: bolder;
+  color: var(--primary);
+}
+
+.line-through {
+  text-decoration: line-through;
+}
